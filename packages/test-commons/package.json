@@ -12,11 +12,11 @@
     "test": "exit 0"
   },
   "dependencies": {
-    "chai": "^4.2.0",
+    "chai": "^4.3.10",
     "core-js": "^3.1.4",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-15": "^1.4.0",
-    "enzyme-adapter-react-16": "^1.14.0"
+    "enzyme-adapter-react-16": "^1.15.8"
   },
   "peerDependencies": {
     "react": ">=15.3.0"
